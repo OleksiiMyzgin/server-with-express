@@ -7,5 +7,6 @@
 ## Running locally
 
 1. `npm start` to start `nodemon` and `concurrently`
+2. `open http://localhost:3000` to open the site in your favorite browser
 
 The first you run this you might see an error message since there is no `index.js` file inside the build folder. You need to restart the server.
